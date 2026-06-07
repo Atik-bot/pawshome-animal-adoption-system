@@ -206,27 +206,9 @@ http://localhost/pawshome/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of homepage, pet cards, user dashboard, and admin panel here)*
-
----
-
 ## 👨‍💻 Author
 
-**Atik Shahrier**
+**Atik Shahrier Rakir**
 - 🎓 BSc in Computer Science — AIUB (American International University–Bangladesh)
 - 📧 atikshahrier@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/jobayer0910)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and distribute.
-
----
-
-<div align="center">
-Made with ❤️ and lots of ☕ in Dhaka, Bangladesh 🇧🇩
-</div>
