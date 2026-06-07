@@ -209,5 +209,5 @@ http://localhost/pawshome/
 
 **Atik Shahrier Rakir**
 - 🎓 BSc in Computer Science — AIUB (American International University–Bangladesh)
-- 📧 atikshahrier@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/jobayer0910)
+- 📧 atikshahrierr@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/Atik-bot)
