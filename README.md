@@ -4,17 +4,6 @@
 
 ### A Full-Stack Animal Adoption Web Application
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-pawshomes.infinityfree.io-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pawshomes.infinityfree.io/)
-[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-CDN-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-
-*Connecting loving families with animals in need. Every pet deserves a warm home.*
-
-</div>
-
----
-
 ## 📌 Overview
 
 **PawsHome** is a full-stack web application that streamlines the animal adoption process. Users can browse available pets, submit adoption requests, and track their application status — while administrators manage the entire workflow from a dedicated dashboard.
